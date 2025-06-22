@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/MIPS/main_module_isim_beh.exe" -prj "E:/MIPS/main_module_beh.prj" "work.main_module" 
